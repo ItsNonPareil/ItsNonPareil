@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new languages.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on making projects.
-- 📫 You cam reach me by my email id— itsnonpareil@gmail.com
+- 📫 You can reach me by my email id— itsnonpareil@gmail.com
 
 <!---
 ItsNonPareil/ItsNonPareil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
